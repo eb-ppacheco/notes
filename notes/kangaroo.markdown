@@ -13,3 +13,6 @@
 
     4. Name the Organization, enter the email address you created the account with and make sure the bubble for ‘Music’ is selected and press “Create”. Then it will be a music org
 
+- Organizations
+
+    https://admin.evbqa.com/admin/organizations/create
